@@ -1,17 +1,17 @@
 {
   "headers": {
       "/sample/": {
-      "X-Author": "natiy1",
+      "X-Author": "msksus",
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8"
     },
       "/login/": {
-      "X-Author": "natiy1",
+      "X-Author": "msksus",
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8"
     },
       "/*": {
-      "X-Author": "natiy1",
+      "X-Author": "msksus",
       "Access-Control-Allow-Origin": "*"
     }
   },
