@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "natriy1",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
